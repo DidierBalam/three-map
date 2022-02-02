@@ -1,0 +1,16 @@
+{
+  "name": "02-loaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "threebox-plugin": "^2.2.6"
+  }
+}
